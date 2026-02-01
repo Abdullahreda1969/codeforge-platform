@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeForge Platform 🚀
 
 Professional SDLC Project Generator & Manager with AI Integration
@@ -47,3 +48,7 @@ MIT License
 
 ---
 
+=======
+# codeforge-platform
+CodeForge: Professional SDLC Project Generator &amp; Manager with AI Integration
+>>>>>>> 90eb16f17e763398055e27f03dbfe6aef3146525
